@@ -60,3 +60,14 @@ You need to download the Vindr-CXR dataset, which can be downloaded from [here](
 Regarding the WBF and training set partitioning in preprocessing, you can reproduce it in this notebook.
 
 ## Additional Information
+[NIH-CXR dataset](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)
+
+[Vindr-CXR dataset](https://vindr.ai/datasets/cxr)
+
+[mmdetection](https://github.com/open-mmlab/mmdetection)
+
+[Barlowtwins](https://github.com/facebookresearch/barlowtwins)
+
+[Heatmap for mmdetection](https://github.com/open-mmlab/mmdetection/pull/7987)
+
+
