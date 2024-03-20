@@ -46,8 +46,17 @@ Comparison of BarlowTwins-CXR performance against ResNet initialized baseline wh
 coming soon ...
 
 ## Running the experiments
+Our experiments were conducted using the servers of the Center intégré universitaire de santé et de services sociaux du Centre-Sud-de-l'Île-de-Montréal.
 ### Pre-Training
+The specific steps of the Barlowtwins-CXR pre-training process can be found [here](https://github.com/facebookresearch/barlowtwins), as well as the comments at the top of the code.
+
+You also need to download the NIH-CXR dataset, which can be downloaded from [here](https://www.kaggle.com/datasets/nih-chest-xrays/data).
 
 ### BarlowTwins-CXR Training with Vindr-CXR
+The specific steps of the Barlowtwins-CXR training on the Vindr-CXR dataset can be found [here](https://github.com/facebookresearch/barlowtwins), as well as the official [documentation](https://mmdetection.readthedocs.io/en/latest/user_guides/config.html) of mmdetection.
+
+You need to download the Vindr-CXR dataset, which can be downloaded from [here](https://physionet.org/content/vindr-cxr/1.0.0/) or from [Kaggle](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection/data)
+
+Regarding the WBF and training set partitioning in preprocessing, you can reproduce it in this notebook.
 
 ## Additional Information
