@@ -53,7 +53,7 @@ The specific steps of the Barlowtwins-CXR pre-training process can be found [her
 You also need to download the NIH-CXR dataset, which can be downloaded from [here](https://www.kaggle.com/datasets/nih-chest-xrays/data).
 
 ### BarlowTwins-CXR Training with Vindr-CXR
-The specific steps of the Barlowtwins-CXR training on the Vindr-CXR dataset can be found [here](https://github.com/facebookresearch/barlowtwins), as well as the official [documentation](https://mmdetection.readthedocs.io/en/latest/user_guides/config.html) of mmdetection.
+The specific steps of the Barlowtwins-CXR training on the Vindr-CXR dataset can be found [here](https://github.com/haooyuee/BarlowTwins-CXR/blob/main/mmdetection/README.md), as well as the official [documentation](https://mmdetection.readthedocs.io/en/latest/user_guides/config.html) of mmdetection.
 
 You need to download the Vindr-CXR dataset, which can be downloaded from [here](https://physionet.org/content/vindr-cxr/1.0.0/) or from [Kaggle](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection/data)
 
