@@ -132,7 +132,3 @@ python tools/analysis_tools/confusion_matrix.py config_NAME.py Path_to_save_pklr
 ```
 For more detailed operations, can directly refer to the mmdetection documentation.
 
-# Note
-MMDetection is an object detection toolbox that contains a rich set of object detection, instance segmentation, and panoptic segmentation methods as well as related components and modules.
-
-It is powerful and has many parameters available, but because it uses hooks to connect components, additional custom extensions require custom hooks to implement, which is difficult.
