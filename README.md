@@ -57,7 +57,7 @@ The specific steps of the Barlowtwins-CXR training on the Vindr-CXR dataset can 
 
 You need to download the Vindr-CXR dataset, which can be downloaded from [here](https://physionet.org/content/vindr-cxr/1.0.0/) or from [Kaggle](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection/data)
 
-Regarding the WBF and training set partitioning in preprocessing, you can reproduce it in this notebook.
+Regarding the WBF and training set partitioning in preprocessing, you can reproduce it in this [notebook](https://github.com/haooyuee/BarlowTwins-CXR/blob/main/preprocessing/vindr_convert_cocodataset.ipynb).
 
 ## Additional Information
 [NIH-CXR dataset](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)
