@@ -43,7 +43,7 @@ Comparison of BarlowTwins-CXR performance against ResNet initialized baseline wh
 <img src="https://github.com/haooyuee/BarlowTwins-CXR/assets/104264477/1644a58a-9ca4-4fc5-829f-2f8682cef681" alt="drawing" width="350"/>
 
 ## Checkpoints
-coming soon ...
+[Huggingface](https://huggingface.co/haooyuee/Barlowtwins-CXR/tree/main)
 
 ## Running the experiments
 Our experiments were conducted using the servers of the Center intégré universitaire de santé et de services sociaux du Centre-Sud-de-l'Île-de-Montréal.
